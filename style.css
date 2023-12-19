@@ -1,0 +1,286 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bitter:wght@200&family=Dosis:wght@200&family=Hedvig+Letters+Sans&family=IBM+Plex+Serif:wght@300&family=Merriweather:ital,wght@1,300&family=Oswald&family=Vina+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   background-color: rgb(240, 189, 93);
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+}
+
+nav ul{
+    display: flex;
+
+}
+
+nav ul li a{
+    display: flex;
+    margin: 30px;
+    text-decoration: none;
+    color: rgb(255, 252, 252);
+    font-weight: 800;
+    text-shadow: 3px 3px 8px black;
+    font-size: 20px;
+}
+
+.image
+{
+    font-size: 50px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+} 
+.text{
+   position: absolute;
+   bottom:50%;
+   left: 50%;
+}
+p{
+    font-size: 25px;
+    position: absolute;
+  left: 50%;
+  bottom:30% ;
+}
+
+#head{
+    background-color: rgb(216, 173, 92);
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 3px 3px 8px black;
+}
+.dd
+{
+    font-size: 20px;
+    color: rgb(148, 142, 142);
+    margin: 20px;
+    padding: 10px;
+    
+}
+.photo
+{
+   display: flex;
+   justify-content: center;
+
+}
+p{
+    font-family: Hedvig Letters Sans;
+    font-weight: 100;
+}
+
+.col1
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_r-W_6n0oS8WiuzULixrbcbE3XOEIcL86g&usqp=CAU);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+
+.col2
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://www.halfbakedharvest.com/wp-content/uploads/2015/01/The-Montanara-Pizza-Classic-Fried-Italian-Pizza.-9.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col3
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://grandbaby-cakes.com/wp-content/uploads/2013/10/Neopolitan-Pizza-Dough-2low.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col4
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk7DTc_5_V_sjUt8jvTgqQKkJ5RLGzuIuQCgm2maSo3ewPZ92-vIite5dkX6B2TwG0E8&usqp=CAU);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col5
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://suebeehomemaker.com/wp-content/uploads/2021/08/bbq-chicken-bacon-pizza-6.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col6
+{ 
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://sallysbakingaddiction.com/wp-content/uploads/2013/11/Homemade-Pizza-Crust-7.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col7
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url( https://thestayathomechef.com/wp-content/uploads/2023/04/Hawaiian-Pizza-2.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col8
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url( https://savorthebest.com/wp-content/uploads/2021/12/buffalo-chicken-pizza_1196.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+
+.col9
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://i0.wp.com/novicehousewife.com/wp-content/uploads/2020/07/DSC_2114.jpg?fit=684%2C1024&ssl=1 );
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+.col10
+{
+    width: 200px;
+    height: 300px;
+    background-color: tomato;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAy5ipglo7E10l2PjKHoFSDWxiljEzBkcn1jUMfFeUWw7T13ObbVB1j1G3DBhPznVDqg&usqp=CAU );
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+     margin: 20px;
+}
+#food
+{
+  
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+}
+#head
+{
+    text-shadow: 3px 3px 8px black;
+}
+#but
+{
+    margin: 10px;
+    color: white;
+    background-color: black;
+    padding: 10px;;
+}
+
+
+.cls{
+    background-color: rgb(240, 189, 93); 
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 3px 3px 8px black;
+}
+.row4
+{
+    display: flex;
+   
+}
+
+.col12
+{
+    background-color: aliceblue;
+    width: 750px;
+    height: 500px;
+    background-image: url(https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/one-plus-one-personal.804a46d55f8bad9e3d598fa4907acea0.1.jpg);
+    margin: 30px;
+}
+.col13
+{
+    
+        background-color: aliceblue;
+        width: 750px;
+        height: 500px;
+        background-image: url(https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/hut-meal-for-4.5e0c59b4d96897565bb95183d6b48e08.1.jpg);
+        margin: 30px;
+        
+    
+}
+#butto{
+    width: 50%;
+    height: 50px;
+    margin: 40px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: large;
+}
+a:hover
+{
+    color: rgb(38, 38, 87);
+}
+.sect
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    color: white;
+    
+}
+#ab
+{
+   margin-bottom: 20px;
+}
+#sc
+{
+    margin-top: 30px;
+}
+
